@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on human genetics and DNA repair
+- 🔭 I’m a bioinformatics PhD student who currently working on human genetics and DNA repair
 - 👯 I’m always open to collaborations
 - 📫 How to reach me:  msun330@gatech.edu
 <!--
